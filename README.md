@@ -58,8 +58,3 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/sid2318/sid2318/blob/output/snake.svg" alt="snake"/>
-</p>
-
